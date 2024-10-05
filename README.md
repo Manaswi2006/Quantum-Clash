@@ -7,7 +7,7 @@ To run this project, you need to have Python and Qiskit installed. You can insta
 bash
 pip install qiskit qiskit-aer matplotlib
 
-## CODE DESIGN1.
+## CODE DESIGN
 
 ### 1. Import Libraries
 Import essential libraries including numpy, qiskit, and qiskit.visualization for quantum computing and data visualization.
